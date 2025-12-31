@@ -1,4 +1,5 @@
 🎬 Movie Dataset Analysis
+
 📌 Project Overview
 This project analyzes a dataset of 3,000 movies with details such as budget, revenue, crew, cast, genres, and languages.
 The goal is to help a rookie movie producer decide what type of movies to produce and which actors to cast, backed by thorough data-driven insights.
