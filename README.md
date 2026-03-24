@@ -27,5 +27,7 @@ The goal is to help a rookie movie producer decide what type of movies to produc
 - Deep-dived into their movies, genres, and profits.
 - Top 3 directors and their preferred actors
 - Analyzed casting patterns to see which actors are most frequently chosen by the top directors.
+- - Analyzed casting patterns to see which actors are most frequently chosen by the top directors.
+
 
 
