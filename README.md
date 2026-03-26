@@ -1,4 +1,4 @@
-🎬 Movie Dataset Analysis
+🎬 Movie Dataset Analysis EDA 
 
 📌 Project Overview
 This project analyzes a dataset of 3,000 movies with details such as budget, revenue, crew, cast, genres, and languages.
@@ -10,6 +10,7 @@ The goal is to help a rookie movie producer decide what type of movies to produc
 - Cleaned the dataset:
 - Handled missing values in crew, cast, and genres.
 - Replaced unrealistic budget/revenue values (like 0 or <1000) with median values.
+- Created new columns for profit and ROI (Return on Investment).
 - Created new columns for profit and ROI (Return on Investment).
 
 🔎 Key Questions Answered
@@ -30,4 +31,5 @@ The goal is to help a rookie movie producer decide what type of movies to produc
 - - Analyzed casting patterns to see which actors are most frequently chosen by the top directors.
 
 
+- - Top 3 directors and preferred actors → By analyzing casting patterns, you revealed which actors are repeatedly chosen by the most successful directors. That’s a great way to uncover collaboration networks in the industry.
 
